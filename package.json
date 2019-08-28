@@ -1,0 +1,19 @@
+{
+  "name": "expo_notifications",
+  "version": "1.0.0",
+  "description": "App that sends notifications via Expo SDK and React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayunus22198/Expo_Notifications.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayunus22198/Expo_Notifications/issues"
+  },
+  "homepage": "https://github.com/ayunus22198/Expo_Notifications#readme"
+}

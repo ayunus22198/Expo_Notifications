@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ayunus22198/Expo_Notifications/issues"
   },
-  "homepage": "https://github.com/ayunus22198/Expo_Notifications#readme"
+  "homepage": "https://github.com/ayunus22198/Expo_Notifications#readme",
+  "dependencies": {
+    "react-native-calendars": "^1.212.0"
+  }
 }

@@ -23,6 +23,6 @@
     "morgan": "^1.9.1",
     "nodemon": "^1.19.1",
     "react-native-calendars": "^1.212.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.5.0"
   }
 }
